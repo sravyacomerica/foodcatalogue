@@ -1,0 +1,80 @@
+@media (min-width: 576px)
+{
+@media (min-width: 776px)
+{
+@media (min-width: 992px)
+{
+@media (min-width: 1200px)
+{
+body
+{
+font-size: 20px;	
+}
+.navbar-default
+{
+width: 1000px;
+position: center fixed;
+top: 30px;
+font-size: 14px;
+display: inline-block;
+padding-bottom:10px;
+}
+div#second
+{
+min-height: 10px;
+background-size: 100% 100%;
+width: 100%;
+height: 300px;
+margin-bottom: 0px;
+padding: 0;
+overflow: hidden;
+background-color: grey;
+text-align: center;
+}
+div#first
+{
+min-height: 1000px;
+display: block;
+background-size: 100% 100%;
+width: 100%;
+padding: 0;
+margin:0;
+}
+li a
+{
+text-decoration: none;
+color: black;
+}
+ul
+{
+list-style-type: none;	
+}
+div#blog
+{
+font-size: 10px;	
+}
+ #third .thumbnail img
+{
+max-width: 10px;	
+max-height: 10px;
+}
+.carousel
+{
+height: 400px;
+width:  1000px;
+}
+.carousel-inner > .item > img
+{
+height: 400px;
+width:  1000px;
+margin-top: 0px;
+}
+}
+}
+}
+@media screen and (max-width: 500px)
+body
+{
+	font-size: 11px;
+}
+}
